@@ -1,0 +1,39 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-07-03T09:57:18Z",
+  "id": "mappers-guide",
+  "duration": 19,
+  "title": "Guide to mapping",
+  "authors": "Rajesh",
+  "summary": "This codelab will show you how to Map the crossings, sidewalks and curbs appropriately",
+  "source": "1FuWRMpBOoVS--A7W6M_qnoNmwJomQYOIpxFudSXuUOI",
+  "theme": "proviso",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "proviso"
+  ],
+  "tags": [
+    "cds17",
+    "chrome-dev-summit-2016",
+    "devfest18",
+    "gdd17",
+    "io2016",
+    "io2017",
+    "io2018",
+    "io2019",
+    "jsconfeu",
+    "kiosk",
+    "pwa-dev-summit",
+    "pwa-roadshow",
+    "tag-web",
+    "typtwd17",
+    "web"
+  ],
+  "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
+  "url": "mappers-guide"
+}
